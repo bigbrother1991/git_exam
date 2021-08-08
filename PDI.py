@@ -8,8 +8,8 @@ import datetime
 import talib 
 import numpy as np
 import pyupbit
-access_key='9nQLNICO2fkCLPA51gUCb05QxdpHtY9mlzkbnt6h'
-secret_key='LTNcZ5vPTVBfL4hKUyjQ0o31llqZGNnLpSYjAgCP'
+access_key='
+secret_key='
 upbit = pyupbit.Upbit(access_key, secret_key)
 
 
